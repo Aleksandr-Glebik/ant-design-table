@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ant-design-table/static/css/main.103020c6.css",
+    "main.js": "/ant-design-table/static/js/main.af40e711.js",
+    "index.html": "/ant-design-table/index.html",
+    "main.103020c6.css.map": "/ant-design-table/static/css/main.103020c6.css.map",
+    "main.af40e711.js.map": "/ant-design-table/static/js/main.af40e711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.103020c6.css",
+    "static/js/main.af40e711.js"
+  ]
+}
